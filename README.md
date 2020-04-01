@@ -1,5 +1,5 @@
-Calc de Medis em Vue JS 
+## Calc de Medis em Vue JS 
 
 
 
-Criado por @Rafhael Pratesa
+### Criado por @Rafhael Prates
